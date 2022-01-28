@@ -1,1 +1,1 @@
-# Predicting-PIMA-Diabetes-Prediction
+# Predicting-Diabetes
